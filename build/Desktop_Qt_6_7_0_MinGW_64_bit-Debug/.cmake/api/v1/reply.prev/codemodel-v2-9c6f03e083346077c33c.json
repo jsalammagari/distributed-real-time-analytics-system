@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-96b9aa831c9d13460dd9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FinalProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AnalyticsNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AnalyticsNode-Debug-2a0423b6541315ec195b.json",
+					"name" : "AnalyticsNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AnalyticsNode_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AnalyticsNode_autogen-Debug-fcd960ac4e9645dc22d1.json",
+					"name" : "AnalyticsNode_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AnalyticsNode_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AnalyticsNode_autogen_timestamp_deps-Debug-8af54a2736ff5d022746.json",
+					"name" : "AnalyticsNode_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DemoIngestionNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DemoIngestionNode-Debug-b79efadd3dba6a7f2e38.json",
+					"name" : "DemoIngestionNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DemoIngestionNode_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DemoIngestionNode_autogen-Debug-24e9dd335b072a8668d6.json",
+					"name" : "DemoIngestionNode_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DemoIngestionNode_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DemoIngestionNode_autogen_timestamp_deps-Debug-b5fe019225fde3e50e4d.json",
+					"name" : "DemoIngestionNode_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MetadataNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MetadataNode-Debug-13e289af8ad5687cc4db.json",
+					"name" : "MetadataNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MetadataNode_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MetadataNode_autogen-Debug-eca2b19a269c4569eac8.json",
+					"name" : "MetadataNode_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MetadataNode_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MetadataNode_autogen_timestamp_deps-Debug-3badfb0cc954218cb6a3.json",
+					"name" : "MetadataNode_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RegisterNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RegisterNode-Debug-b55b4d235e859e698998.json",
+					"name" : "RegisterNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RegisterNode_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RegisterNode_autogen-Debug-34d870dc344d0b625350.json",
+					"name" : "RegisterNode_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RegisterNode_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RegisterNode_autogen_timestamp_deps-Debug-28c1104dd1b51c0803ec.json",
+					"name" : "RegisterNode_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Student/Documents/FinalProject/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Student/Documents/FinalProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
